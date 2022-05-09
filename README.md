@@ -17,34 +17,34 @@ Overall, players can enjoy the game in an imaginative way.
 You can watch our demo video [here](https://www.youtube.com/watch?v=_BbfyPEBia4&t=367s)
 
 ### player start
-<img width="400" alt="image" src="img/img.png">
+<img width="600" alt="image" src="img/img.png">
 
 ### shooting
-<img width="400" alt="image" src="img/img_1.png">
+<img width="600" alt="image" src="img/img_1.png">
 
 ### landscape
-<img width="400" alt="image" src="img/mountain.png">
-<img width="400" alt="image" src="img/water.png">
+<img width="600" alt="image" src="img/mountain.png">
+<img width="600" alt="image" src="img/water.png">
 
 ### enemy design
-<img width="400" alt="image" src="img/enemy1.png">
-<img width="400" alt="image" src="img/enemy2.png">
-<img width="400" alt="image" src="img/enemy3.png">
-<img width="400" alt="image" src="img/enemy4.png">
-<img width="400" alt="image" src="img/enemy5.png">
+<img width="600" alt="image" src="img/enemy1.png">
+<img width="600" alt="image" src="img/enemy2.png">
+<img width="600" alt="image" src="img/enemy3.png">
+<img width="600" alt="image" src="img/enemy4.png">
+<img width="600" alt="image" src="img/enemy5.png">
 
 ### boss
-<img width="400" alt="image" src="img/boss1.png">
-<img width="400" alt="image" src="img/boss2.png">
-<img width="400" alt="image" src="img/boss3.png">
-<img width="400" alt="image" src="img/boss4.png">
-<img width="400" alt="image" src="img/boss5.png">
-<img width="400" alt="image" src="img/boss6.png">
+<img width="600" alt="image" src="img/boss1.png">
+<img width="600" alt="image" src="img/boss2.png">
+<img width="600" alt="image" src="img/boss3.png">
+<img width="600" alt="image" src="img/boss4.png">
+<img width="600" alt="image" src="img/boss5.png">
+<img width="600" alt="image" src="img/boss6.png">
 
 
 ### over height remind
-<img width="400" alt="image" src="img/overheight.png">
+<img width="600" alt="image" src="img/overheight.png">
 
 ### restart UI
-<img width="400" alt="image" src="img/UI.png">
+<img width="600" alt="image" src="img/UI.png">
 
